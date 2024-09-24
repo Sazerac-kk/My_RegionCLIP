@@ -192,7 +192,7 @@ PROJECTS = {
 
 setup(
     name="detectron2",
-    version=get_version(),
+    version='0.1.0',
     author="FAIR",
     url="https://github.com/facebookresearch/detectron2",
     description="Detectron2 is FAIR's next-generation research "
