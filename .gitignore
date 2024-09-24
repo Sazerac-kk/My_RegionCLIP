@@ -5,9 +5,9 @@ inference_test_output
 oai_clip_weights
 
 pt_output
-# pretrained_ckpt
+pretrained_ckpt
 datasets/coco
-#datasets/lvis
+datasets/lvis
 datasets/cifar-10-batches-py
 
 *.png
